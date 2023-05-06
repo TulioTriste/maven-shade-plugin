@@ -33,4 +33,5 @@
             </relocation>
         </relocations>
     </configuration>
-</plugin>```
+</plugin>
+```
