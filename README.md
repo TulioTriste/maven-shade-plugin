@@ -1,6 +1,6 @@
 # maven-shade-plugin
 
-```xml
+```html
 <plugin>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-shade-plugin</artifactId>
